@@ -87,11 +87,11 @@ img {
 	padding: 0 28px 0 140px;
 }
 #body {
-	background: black url(../images/CCTV-Camera-PNG.png) no-repeat center;
+	background: black;
 	width: 100%;
 }
 #body div#background {
-	background: black;
+	background: black url(../images/GovernmentEye.png) no-repeat right 15rem center;
 	min-height: 420px;
 	padding: 0;
 	width: auto;
